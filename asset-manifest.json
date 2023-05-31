@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fetchapi/static/css/main.5f53a813.css",
+    "main.js": "/fetchapi/static/js/main.fbc6e2e6.js",
+    "static/js/787.a3103ff7.chunk.js": "/fetchapi/static/js/787.a3103ff7.chunk.js",
+    "index.html": "/fetchapi/index.html",
+    "main.5f53a813.css.map": "/fetchapi/static/css/main.5f53a813.css.map",
+    "main.fbc6e2e6.js.map": "/fetchapi/static/js/main.fbc6e2e6.js.map",
+    "787.a3103ff7.chunk.js.map": "/fetchapi/static/js/787.a3103ff7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f53a813.css",
+    "static/js/main.fbc6e2e6.js"
+  ]
+}
