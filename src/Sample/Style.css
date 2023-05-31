@@ -1,0 +1,21 @@
+.card {
+    border-width: 5px;
+    border-color:brown ;
+    border-radius:  radius 50px; 
+    background-color: teal;}
+    .card-title{
+        color: red;
+    }
+    .card-text-title{
+        color:lightcoral;
+    }
+    .card-url{
+        color: peru;
+    }
+    .card-score{
+        color: lightcoral;
+    }
+    .card-score-value{
+        color: red;
+        font-weight: bold;
+    }
